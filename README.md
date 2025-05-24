@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Merhaba, ben Kaan Tok
 
-<!--
-**kaanntokk/kaanntokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Toros Üniversitesi** Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasında özellikle **veri ile çalışma** konularına büyük ilgi duyuyorum. Veri analizine, veritabanlarına ve veriyle anlamlı işler yapmaya karşı bir merakım var.
 
-Here are some ideas to get you started:
+💻 Şu anda **C**, **C#**, **HTML** ve **CSS** gibi diller üzerinde kendimi geliştiriyorum. Teorik olarak veritabanı derslerini ikinci sınıfta göreceğiz ama ben şimdiden bu alanda ilerlemek için istekliyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Bugüne kadar bir **web sitesi** ve bir **runner oyunu** geliştirdim. Bu projeler kişisel denemelerim olsa da yazılım geliştirme sürecini öğrenmemde bana çok şey kattı.
+
+🚀 Boş zamanlarımda yeni teknolojiler öğrenmeye çalışıyor, küçük projeler geliştiriyor ve veriyle çalışabileceğim alanlara yöneliyorum.
+
+---
+
+## 📫 Bana Ulaş
+
+- ✉️ E-posta: [kaantoktrr@gmail.com](mailto:kaantoktrr@gmail.com)
